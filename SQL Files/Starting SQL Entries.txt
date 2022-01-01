@@ -1,0 +1,94 @@
+INSERT INTO admin VALUES
+	(UUID(),"A 01", "A email 01", "A pass 01", "A address 01", "A contact 01", "admin");
+
+INSERT INTO admin VALUES
+	(UUID(),"A 02", "A email 02", "A pass 02", "A address 02", "A contact 02", "admin");
+
+INSERT INTO admin VALUES
+    	(UUID(),"A 03", "A email 03", "A pass 03", "A address 03", "A contact 03", "admin");
+
+INSERT INTO admin VALUES
+	(UUID(),"A 04", "A email 04", "A pass 04", "A address 04", "A contact 04", "admin");
+
+INSERT INTO admin VALUES
+	(UUID(),"A 05", "A email 05", "A pass 05", "A address 05", "A contact 05", "admin");
+
+INSERT INTO admin VALUES
+	(UUID(),"A 06", "A email 06", "A pass 06", "A address 06", "A contact 06", "admin");
+
+
+
+
+
+
+INSERT INTO customer VALUES
+	(UUID(),"C 01", "C email 01", "C pass 01", "C address 01", "C contact 01", "customer");
+
+INSERT INTO customer VALUES
+	(UUID(),"C 02", "C email 02", "C pass 02", "C address 02", "C contact 02", "customer");
+
+INSERT INTO customer VALUES
+    	(UUID(),"C 03", "C email 03", "C pass 03", "C address 03", "C contact 03", "customer");
+
+INSERT INTO customer VALUES
+	(UUID(),"C 04", "C email 04", "C pass 04", "C address 04", "C contact 04", "customer");
+
+INSERT INTO customer VALUES
+	(UUID(),"C 05", "C email 05", "C pass 05", "C address 05", "C contact 05", "customer");
+
+INSERT INTO customer VALUES
+	(UUID(),"C 06", "C email 06", "C pass 06", "C address 06", "C contact 06", "customer");
+
+
+
+
+
+
+INSERT INTO marchent VALUES
+	(UUID(),"M 01", "M email 01", "M pass 01", "M address 01", "M contact 01", "marchent");
+
+INSERT INTO marchent VALUES
+	(UUID(),"M 02", "M email 02", "M pass 02", "M address 02", "M contact 02", "marchent");
+
+INSERT INTO marchent VALUES
+    	(UUID(),"M 03", "M email 03", "M pass 03", "M address 03", "M contact 03", "marchent");
+
+INSERT INTO marchent VALUES
+	(UUID(),"M 04", "M email 04", "M pass 04", "M address 04", "M contact 04", "marchent");
+
+INSERT INTO marchent VALUES
+	(UUID(),"M 05", "M email 05", "M pass 05", "M address 05", "M contact 05", "marchent");
+
+INSERT INTO marchent VALUES
+	(UUID(),"M 06", "M email 06", "M pass 06", "M address 06", "M contact 06", "marchent");
+
+
+
+
+
+
+INSERT INTO product VALUES
+	(UUID(), "P Name 01", "P desc 01", 10, 1100, "M 01", 1); /* the last parameter is the marchent user_id, have to manually get it from the marchent table without using code.
+
+INSERT INTO product VALUES
+	(UUID(), "P Name 02", "P desc 02", 100, 700, "M 02", );
+
+INSERT INTO product VALUES
+	(UUID(), "P Name 03", "P desc 03", 150, 550, "M 03", );
+
+INSERT INTO product VALUES
+	(UUID(), "P Name 04", "P desc 04", 200, 400, "M 04", );
+
+INSERT INTO product VALUES
+	(UUID(), "P Name 05", "P desc 05", 300, 100, "M 05", );
+
+INSERT INTO product VALUES
+	(UUID(), "P Name 06", "P desc 06", 500, 50, "M 06", );
+
+
+
+
+
+
+INSERT INTO login VALUES
+	(, , , );
