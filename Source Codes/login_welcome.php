@@ -10,7 +10,7 @@
     </style>
 </head>
 <body>
-    <h1 >Welcome to Freshpicks</h1>
+    <h1 >Logged into Freshpicks</h1>
     <a href="http://localhost/CSE_Project/login.php">Login</a>
     <a href="http://localhost/CSE_Project/registration.php">Register</a>
 
